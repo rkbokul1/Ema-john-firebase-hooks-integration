@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# How to change git repository url and push in a new repo
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+* Check current repo by- $ git remote -v
+* Then Copy your current repository remote link and edit (add to set-url) and enter
+* After You can add, commit and push to your new git repository!
 
 ## Available Scripts
 
